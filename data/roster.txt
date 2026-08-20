@@ -1,0 +1,66 @@
+# One guild member per line — write the REAL name, even in Cyrillic.
+#
+# The OCR model is Chinese+English only, so it cannot output Cyrillic and
+# substitutes look-alike glyphs instead. Matching folds those back, so writing
+# 'Нектариса' here matches the 'HeKTapUCA' that OCR actually produces.
+#
+# If a member still won't match, pin the OCR spellings explicitly with pipes:
+#     Скпдыщ | CKnAbil | CKnAb山
+# The first entry is the display name; the rest are readings that map to it.
+0007J
+AdultWomanFetish
+Alza
+Angels
+Ariana.D
+Ariji
+ArkanGeist
+Ascarion
+ash
+Bengyn
+Bix
+BlacklegSanji
+Brofar
+Celina
+Chickpea
+Cret1n
+Croobaloo
+Design4ted
+ErreTres
+Fearne
+Galia
+Ghost215
+grimshadow
+Ikiri
+Janavar
+KiwiRum
+klien
+Lily
+madrikk
+Marv
+Milio
+Mundes
+neyasno
+Noxe
+Noxes.nr.1.fan
+Oath
+Pantheon
+prOce
+Queen_Persphone
+Raizen537
+Regret609
+Roseline
+Ryuoum
+ShadowX
+Sonitrust
+Spearite
+Syphe
+Terry
+thecoco08
+Valanze
+Varkle
+Vilo
+VOID
+yajmeng
+бумбараш | byM6apaw
+Нектариса | HeKTapUCA
+Скпдыщ | CKnAbil | CKnAb山
